@@ -1,0 +1,7 @@
+#board{
+    background-color: lightcyan;
+    border-bottom: 15px solid rgb(193, 134, 84);
+}
+body{
+    text-align: center;
+}
